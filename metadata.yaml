@@ -1,0 +1,31 @@
+_repo: Alexis-Kivi-och-hans-roman-Seitseman-veljesta_71014
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mörne, Arvid
+    alias: Morne, Arvid
+    birthdate: 1876
+    deathdate: 1946
+    gutenberg_agent_id: '49095'
+    url: http://www.gutenberg.org/2009/agents/49095
+    wikipedia: https://sv.wikipedia.org/wiki/Arvid_M%C3%B6rne
+description: ''
+gutenberg_issued: '2023-06-21'
+identifiers:
+  gutenberg: '71014'
+language: sv
+pgterms:marc905: 20210411060559mrne
+pgterms:marc906: '1911'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aFinland :$bAB Ateneum, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kivi, Aleksis, 1834-1872'
+- !lcsh 'Kivi, Aleksis, 1834-1872. Seitsemän veljestä'
+- !lcc 'PH'
+- GITenberg
+title: Alexis Kivi och hans roman "Seitsemän veljestä"
+url: http://www.gutenberg.org/ebooks/71014
