@@ -1,5 +1,8 @@
 _repo: Alexis-Kivi-och-hans-roman-Seitseman-veljesta_71014
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mörne, Arvid
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49095
     wikipedia: https://sv.wikipedia.org/wiki/Arvid_M%C3%B6rne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71014#Alexis-Kivi-och-hans-roman-Seitseman-veljesta
 gutenberg_issued: '2023-06-21'
 identifiers:
   gutenberg: '71014'
